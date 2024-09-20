@@ -9,9 +9,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindu200012&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu200012" /> </p> -->
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **react, tailwind, java**
+- 💬 Ask me about ** php, Laravel ,React,HTML**
 
 - 📫 How to reach me **https://www.linkedin.com/in/izurucs/**
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tharindu dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharindu dilshan" height="30" width="40" /></a>
-<a href="https://fb.com/tharindu d shan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharindu d shan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/izurucs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharindu dilshan" height="30" width="40" /></a>
+<a href="https://fb.com/IZURUCS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharindu d shan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
